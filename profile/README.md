@@ -6,6 +6,8 @@ Mecat is an AI-powered investment marketplace where each startup has a digital b
 
 ## Report
 **Hackathon Submission Report:** [Welcome To The Jungle (PDF)](../Report_WelcomeToTheJungle.pdf)
+## Video
+**Hackathon Submission Video:** [Youtube Link](https://www.youtube.com/watch?v=LxXzjym1Ypo&feature=youtu.be)
 
 ## Why This Project
 
